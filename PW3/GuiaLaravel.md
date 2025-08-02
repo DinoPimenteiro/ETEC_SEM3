@@ -29,16 +29,25 @@
 
   <li>Repositórios </li>
   São as conexões que permitem a instalção de bibliotecas e frameworks referentes a cada liguagem.
-
-  Node Package Manager (npm)- JavaScript/Node
-  yarn- JavaScript/Node
-  composer- PHP
+  <ul>
+  <li>Node Package Manager (npm)- JavaScript/Node </li>
+  <li>yarn- JavaScript/Node </li>
+  <li> composer- PHP </li>
+  </ul>
   
   <li>Instalação do Laravel</li>
-  1- Acessar o link e realizar o download do composer. Durante a instalação é necessário ativar o modo desenvolvedor e 
-  adicionar ao PATH: https://getcomposer.org/
+  
+  <ul>
+  <li> 1- Acessar o link e realizar o download do composer. Durante a instalação é necessário ativar o modo desenvolvedor e 
+  adicionar ao PATH: https://getcomposer.org/ </li>
 
-  2- 
+  <li> 2- É necessário também alterar a configuração Apache do xammp. Acessando config, buscando a linha que tenha zip e apagar
+  o ";" no começo da linha. Depois é só iniciar o mysql e o Apache normalmente. </li>
+
+  <li>
+  3- Após estes passos, basta selecionar uma pasta e realizar o comando: `composer global require laravel/installer`,
+  isto via cmd. Após isto basta seguir e selecionar as preferências adequadas para seu projeto.</li>
+  </ul>
 
   <li>Laravel</li>
   <p>
@@ -48,13 +57,13 @@
   a migração de banco de dados (migration) e a própria separação dos assuntos de backend, frontend e dados (Model View Control).
   <br>
   A utilização de rotas constitui na criação de caminhos para a sua aplicação, então, ao invés das telas serem colocadas diretas na url,
-  como `localhost/inicio.php`, caminhos a levarão para uma respectiva tela. Exemplo de código:
+  como `localhost/inicio.php` , caminhos a levarão para uma respectiva tela. Exemplo de código:
 
   `use Illuminate\Support\Facades\Route;
 
     Route::get('/', function () {
         return view('inicio');
-    }); `
+    });`
 
   Neste exemplo, quando a rota base for acessada, ou seja, localhost:8000 (sendo 8000 a porta que ele se conectou), ela
   irá mostrar a tela chamada inicio.
@@ -66,57 +75,3 @@
   </p>
 
 </ul>
-
-
--------------------------------------------------------------------------------------
-composer instaler
-
-pasta pw3
-
-Utilizar o comando:
-composer global require laravel/installer
-
-<h1> Tutorial de instalação: </h1>
-
-Link: composer.org/download
-
-Ativar modo desenvolvedor 
-
-escolher xamp e add this php to your path
-nao usar proxy
-instalar
-
-abrir o xamp 
-config apache 
-procurar zip e apagar o ; e salvar e ai dar start no apache e mysql 
-
-
-
->laravel new (example.app) ( enter)
-
->none (enter)
-
-[pest]
-
->  enter ( vai usar o pest)
-
-* instalando ultima versão laravel*
-
-
-cd appAula01
-npm install && npm run build
-composer run dev
-
-
->mysql
-
->yes
->yes
-
->cd appAula01
-
->dir
-
->composer run dev ( enter) 
-
-app url ( copiar )  e colar no google

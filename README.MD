@@ -1,11 +1,7 @@
-Fique a vontade para contribuir com este repositório colocando exemplos e anotações sobre cada matéria.
+<h1> OLÁ PESSOAS </h1>
+Fique a vontade para contribuir com este repositório colocando exemplos e anotações sobre cada matéria. Isso
+aqui é quase um caderno compartilhado então aproveite.
 
-<h1> AVISOS: </h1>
-<ul>
-  <li> Não alterar diretamente os dados no github. </li>
-  <p> Faça o clone do reporsitório, altere e somente após isto dê o push.</p>
-
-  <li> Mantenha a organização dos arquivos em suas respectivas pastas. </li>
-
-</ul>
+Para contribuir basta fazer um fork e fazer um pull request para enviar enviar a notificação de para atribuir ao repositório.
+Eu vou ver se consigo deixar global pra que cada um altere em sua máquina.
 

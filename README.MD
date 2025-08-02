@@ -6,6 +6,6 @@ Fique a vontade para contribuir com este repositório colocando exemplos e anota
   <p> Faça o clone do reporsitório, altere e somente após isto dê o push.</p>
 
   <li> Mantenha a organização dos arquivos em suas respectivas pastas. </li>
-  <li></li>
+
 </ul>
 

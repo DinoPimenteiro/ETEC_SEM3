@@ -38,4 +38,6 @@ Detalhe:
 
 - No "git log" o HEAD indicar onde você está entre as versões. Para retornar a versão principal basta realizar o seguinte: "git checkout master"
 
-- O github utiliza como padrão para a branch princilpal a nomenclatura main.
+- O github utiliza como padrão para a branch principal a nomenclatura main.
+
+- O comando ` git branch -M novo-nome` renomeia a branch atual para o nome selecionado. Comumente é utilizado para trocar o nome de master para main.

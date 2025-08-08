@@ -45,8 +45,8 @@
   o ";" no começo da linha. Depois é só iniciar o mysql e o Apache normalmente. </li>
 
   <li>
-  3- Após estes passos, basta selecionar uma pasta e realizar o comando: `composer global require laravel/installer`,
-  isto via cmd. Após isto basta seguir e selecionar as preferências adequadas para seu projeto.</li>
+  3- Após estes passos, basta selecionar uma pasta e realizar o comando: ` composer global require laravel/installer`,
+  isto via cmd. Após isto basta realizar o comando ` laravel new nome_aplicacao`  e, após isso, seguir com as preferências adequadas para seu projeto.</li>
   </ul>
 
   <li>Laravel</li>

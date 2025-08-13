@@ -1,6 +1,6 @@
 #### Observação
 
-Exemplos de cada característica estão registrados nessa mesma pasta, eles estão representados por JavaScript como linguagem.
+Exemplos de cada característica estão registrados nessa mesma pasta, eles estão representados por JavaScript e C#. Para rodar os exemplos basta realizar o seguinte comando no terminal: `node POO/exem_POO/nome_arquivo.js` (é necessário ter o node, o dotnet e a extensão ` C# Dev Kit` instalado)
 
 ## Herança
 

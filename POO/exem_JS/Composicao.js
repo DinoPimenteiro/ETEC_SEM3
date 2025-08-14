@@ -11,7 +11,7 @@ function podeAndar(state) {
 function podeFalar(state) {
   return {
     falar(mensagem) {
-      console.log(`${state.nome} diz: "${mensagem}" 💬`);
+      console.log(`${state.nome} diz: "${mensagem}" `);
     }
   };
 }

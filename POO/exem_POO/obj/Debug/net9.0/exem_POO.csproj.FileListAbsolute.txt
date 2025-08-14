@@ -1,0 +1,15 @@
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\bin\Debug\net9.0\exem_POO.exe
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\bin\Debug\net9.0\exem_POO.deps.json
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\bin\Debug\net9.0\exem_POO.runtimeconfig.json
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\bin\Debug\net9.0\exem_POO.dll
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\bin\Debug\net9.0\exem_POO.pdb
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.AssemblyInfoInputs.cache
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.AssemblyInfo.cs
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.sourcelink.json
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.dll
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\refint\exem_POO.dll
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.pdb
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\exem_POO.genruntimeconfig.cache
+C:\Users\Gabri\ETEC_SEM3\POO\exem_POO\obj\Debug\net9.0\ref\exem_POO.dll
